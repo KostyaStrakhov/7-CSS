@@ -27,7 +27,7 @@ background-color: #cec0c0;;
     }
 
 .nav-button{
-    display: inline;
+    display: inline-block;
     font-size: 18px;
     padding-right: 30px
     }
@@ -50,7 +50,6 @@ a:visited{
 
 a:active{
     text-decoration: none;
-
     }
 
 
